@@ -1,0 +1,4 @@
+.vscode
+.wercker
+bin/
+obj/
